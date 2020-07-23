@@ -1,2 +1,2 @@
 # Supercomputers
-Website created with HTML/CSS/PHP, contains information about Supercomputers
+Self-contained, data-driven website created with HTML/CSS/PHP/Javascript, contains information about Supercomputers.
